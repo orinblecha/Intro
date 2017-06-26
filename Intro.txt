@@ -1,4 +1,6 @@
 This file is to practice using Git
 
-Dennis Boldt - Hillsboro - "Go Trojans"
+Dennis Boldt - Hillsboro - "Go Hillsoro Trojans"
+
+
 
