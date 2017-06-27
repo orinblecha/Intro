@@ -2,5 +2,6 @@ This file is to practice using Git
 
 Dennis Boldt - Hillsboro - "Go Hillsoro Trojans"
 
+Dillon Boldt - Hillsboro Student "Go Clippers"
 
 
